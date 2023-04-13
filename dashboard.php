@@ -43,8 +43,8 @@ function logout() {
       <button type="submit" name="logout">Logout</button>
       
     </form>
-    <br><br>
-    <a href="change_password.php" style="width: 100px;"><button>Change Password</button></a>
+      <br><br>
+      <a href="change_password.php" style="width: 100px;"><button>Change Password</button></a>
 
     
     
