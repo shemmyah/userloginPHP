@@ -1,0 +1,58 @@
+body{
+    font-family: "Montserrat";
+    text-align: center;
+}
+
+h1, h2, h3{
+    font-weight: bold;
+    color: #40513B;
+}
+
+a{
+    color: #40513B;
+}
+
+a:hover{
+    color: #263A29;
+}
+
+p{
+    color: #B3C99C;
+}
+
+/* Register */
+
+form {
+    width: 40%;
+    margin: auto;
+    padding: 20px;
+    background-color: #DDFFBB;
+    box-shadow: 0 0 10px #aaa;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+button,
+button[type="register"],
+button[type=submit] {
+    background-color: #B3C99C;
+    color: #40513B;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 20%;
+    margin-top: 10px;
+}
+
+button:hover,
+button[type=register]:hover,
+button[type=submit]:hover {
+    background-color: #A4BC92;
+}
+
+
+/* Login */
